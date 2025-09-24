@@ -29,6 +29,7 @@ int main() {
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
     cout << "abs(z1 - z2) = " << fabs(z1 - z2) << endl;
+    cout << "Calculation completed successfully!" << endl;
 
     return 0;
 }
