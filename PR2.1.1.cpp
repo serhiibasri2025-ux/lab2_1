@@ -30,6 +30,6 @@ int main() {
     cout << "z2 = " << z2 << endl;
     cout << "abs(z1 - z2) = " << fabs(z1 - z2) << endl;
     cout << "Calculation completed successfully!" << endl;
-
+    cout << "This is a new change in feature branch!" << endl;
     return 0;
 }
