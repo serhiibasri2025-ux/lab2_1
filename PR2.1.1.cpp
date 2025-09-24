@@ -14,9 +14,9 @@ int main() {
     double alpha;
     char unit;
 
-    cout << "Enter alpha: ";
+    cout << "Input value of alpha: ";
     cin >> alpha;
-    cout << "Enter unit (d for degrees, r for radians): ";
+    cout << "Enter unit (d - degrees, r - radians): ";
     cin >> unit;
 
     if (unit == 'd' || unit == 'D')
